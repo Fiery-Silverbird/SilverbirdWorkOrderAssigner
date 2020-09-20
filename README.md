@@ -4,3 +4,4 @@ A work order algorithm that takes input as in a form of a table (.xlsx file) and
 - [x] Algorithm that assigns work to company workers
 - [x] Backend thats fully functional and stores all the necessary data in a database
 - [x] Notifies the workers of their work orders
+- [ ] Functional frontend that makes for a ease of access for workers to keep track of their work orders
