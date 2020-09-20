@@ -1,0 +1,42 @@
+Work Order #, Facility, Equipment Type, Equipment ID, Priority(1-5), Time to Complete, Submission Timestamp, 
+1001.0, Fac1, Pump, P032, 5.0, 3.0, 14-Sep-2018, 
+1002.0, Fac3, Conveyer, Con391, 1.0, 9.0, 9/13/18 18:30, 
+1003.0, Fac4, Seperator, Sep028, 2.0, 3.0, 9/13/18 05:41, 
+1004.0, Fac5, Sensor, Sen826, 4.0, 1.0, 9/13/18 10:20, 
+1005.0, Fac1, Security, Sec032, 1.0, 2.0, 9/13/18 10:20, 
+1006.0, Fac5, Electricity, El087, 3.0, 2.0, 9/14/18 08:34, 
+1007.0, Fac1, Networking, Net012, 3.0, 4.0, 9/15/18 14:52, 
+1008.0, Fac1, Vehicle, V053, 4.0, 4.0, 9/12/18 12:36, 
+1009.0, Fac2, HVAC, HVAC021, 2.0, 18.0, 9/12/18 09:23, 
+1010.0, Fac3, Compressor, Com471, 5.0, 9.0, 9/13/18 18:38, 
+1011.0, Fac2, Vehicle, Veh279, 2.0, 1.0, 15-Sep-2018, 
+1012.0, Fac5, Security, Sec174, 2.0, 2.0, 15-Sep-2018, 
+1013.0, Fac3, Electricity, El649, 5.0, 6.0, 13-Sep-2018, 
+1014.0, Fac2, Pump, P595, 2.0, 12.0, 15-Sep-2018, 
+1015.0, Fac2, Conveyer, Con281, 3.0, 7.0, 15-Sep-2018, 
+1016.0, Fac3, HVAC, HVAC361, 5.0, 14.0, 13-Sep-2018, 
+1017.0, Fac4, Networking, Net109, 1.0, 3.0, 14-Sep-2018, 
+1018.0, Fac5, Seperator, Sep789, 5.0, 3.0, 12-Sep-2018, 
+1019.0, Fac5, Compressor, Com352, 5.0, 13.0, 13-Sep-2018, 
+1020.0, Fac1, Sensor, Sen551, 1.0, 12.0, 12-Sep-2018, 
+1021.0, Fac5, Vehicle, Veh236, 1.0, 1.0, 15-Sep-2018, 
+1022.0, Fac5, Conveyer, Con120, 3.0, 3.0, 15-Sep-2018, 
+1023.0, Fac2, Sensor, Sen012, 2.0, 10.0, 13-Sep-2018, 
+1024.0, Fac4, Compressor, Com250, 2.0, 5.0, 15-Sep-2018, 
+1025.0, Fac3, Seperator, Sep775, 1.0, 4.0, 14-Sep-2018, 
+1026.0, Fac2, Pump, Pum102, 3.0, 2.0, 12-Sep-2018, 
+1027.0, Fac2, Electricity, El098, 4.0, 3.0, 15-Sep-2018, 
+1028.0, Fac1, Security, Sec032, 5.0, 1.0, 12-Sep-2018, 
+1029.0, Fac1, Electricity, El101, 3.0, 4.0, 13-Sep-2018, 
+1030.0, Fac3, HVAC, HVAC997, 2.0, 6.0, 13-Sep-2018, 
+
+
+
+
+
+
+
+
+
+
+
