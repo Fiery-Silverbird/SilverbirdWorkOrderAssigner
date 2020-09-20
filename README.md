@@ -5,3 +5,6 @@ A work order algorithm that takes input as in a form of a table (.xlsx file) and
 - [x] Backend thats fully functional and stores all the necessary data in a database
 - [x] Notifies the workers of their work orders
 - [ ] Functional frontend that makes for a ease of access for workers to keep track of their work orders
+
+# How to run
+Make sure to have maven installed. Download pom.xml, RiceHackathonFile.xlsx, and schedule.java as those are all the files you need to run the program. Make sure if you're going to download the files to your own database, change the default code where it accesses the mongoDB database to your own credentials and also change the twilio AUTH_ID and AUTH_TKN as those are only for testing purposes. If using the code as is, without any of the aforementioned changes, just run the code and it can output either to console or a specified phone number if you paid for twilio on line 236. I also print out the message that it would text the number just for ease of access. If you are changing the code such as the database, make sure to uncomment the for loop in main as it will input all the necessary data into your version of mongoDB and finish doing what it's supposed to.
